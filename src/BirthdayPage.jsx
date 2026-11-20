@@ -26,7 +26,7 @@ const KUPON = [
    1. Taruh semua foto di folder  public/foto/
    2. Cukup ganti nama file + caption di bawah ini.
    Tambah/hapus baris sesuka kamu. */
-const FOLDER = "public/img/";
+const FOLDER = "/img/";
 const FOTO_UTAMA = "logo.jpeg"; // foto bulat di bagian atas (isi "" kalau tidak mau)
 const FOTO = [
   { file: "pap.jpeg", cap: "pertama kali kamu kasih pap ke aku" },
